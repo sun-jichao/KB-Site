@@ -107,6 +107,3 @@ deploy:
   type: git
   repository: 
     github: git@github.com:sun-jichao/KB-Site.git,master
-
-#    coding: git@git.coding.net:sunjichao/KB-Site.git,master
-## ddd
