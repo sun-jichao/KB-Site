@@ -8,11 +8,17 @@ branches: # 指定要构建的分支
   only: # only 表示只构建以下分支
   - writing
 
+before_install:
+  - openssl aes-256-cbc -K $encrypted_26b4962af0e7_key -iv $encrypted_26b4962af0e7_iv -in travis.enc -out ~/.ssh/id_rsa -d
+  - chmod 600 ~/.ssh/id_rsa
+  - eval $(ssh-agent)
+  - ssh-add ~/.ssh/id_rsa
+  - cp ssh_config ~/.ssh/config
+  - git config --global user.name "${GIT_USER_NAME}"
+  - git config --global user.email "${GIT_USER_EMAIL}"
+
 install: # 在安装项目环境阶段需要运行的命令，一条一行，类似的还有 before_install
   - source travis_env_init.sh # 指定 shell 脚本文件来做初始化
-
-addons:
-  ssh_known_hosts: git.coding.net
 
 script: # 在构建阶段需要运行的命令，一条一行，类似的还有 before_script、after_script
   - hexo clean
