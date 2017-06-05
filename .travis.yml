@@ -8,6 +8,10 @@ branches: # 指定要构建的分支
   only: # only 表示只构建以下分支
   - writing
 
+cache:
+  directories:
+    - node_modules
+
 before_install:
   - openssl aes-256-cbc -K $encrypted_26b4962af0e7_key -iv $encrypted_26b4962af0e7_iv -in travis.enc -out ~/.ssh/id_rsa -d
   - chmod 600 ~/.ssh/id_rsa
