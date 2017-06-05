@@ -1,6 +1,5 @@
 ---
 title: Test 1
-categories: [CS, Usage]
 ---
 
 This is Test Page
