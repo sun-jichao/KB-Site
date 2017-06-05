@@ -4,7 +4,7 @@
 
 # Site
 title: Knowledge Base
-subtitle: 
+subtitle:
 description:
 author: Sun JiChao
 language: zh-CN
@@ -69,6 +69,10 @@ jsonContent:
   ignore:
     - 404.html
 
+auto_dir_categorize:
+  enable: true  # options:true, false; default is true
+  force: true # options:true, false; default is false
+
 ### Creat sitemap
 sitemap:
   path: sitemap.xml
@@ -105,6 +109,6 @@ theme: Wikitten
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: 
+  repository:
     github: git@github.com:sun-jichao/KB-Site.git,master
     coding: git@git.coding.net:sunjichao/KB-Site.git,master
