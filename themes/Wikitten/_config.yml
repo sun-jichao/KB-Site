@@ -12,7 +12,7 @@ customize: # 首先修改这项里面的信息为你自己的各项信息
         enabled: true
         width: 40
         height: 40
-        url: /logo.png
+        url: //odqwjjp9p.qnssl.com/kb/logo.png
     profile:
         enabled: false # Whether to show profile bar
         avatar: # css/images/avatar.png
@@ -25,7 +25,7 @@ customize: # 首先修改这项里面的信息为你自己的各项信息
     sidebar: left # 侧边栏的所在位置，默认左边, options: left, right
     category_perExpand: false # 侧边栏里的各个分类是否默认展开
     thumbnail: true # enable posts thumbnail, options: true, false
-    favicon: /favicon.ico # path to favicon
+    favicon: //odqwjjp9p.qnssl.com/kb/favicon.ico # path to favicon
     default_index_file: index.md # 是否指定一篇文章作为首页来代替默认的多篇文章的首页
     social_links:
         github: https://github.com/sun-jichao/KB-Site
@@ -42,8 +42,8 @@ widgets: # 挂件，默认指开启了分类这一栏
     # - tag
     # - tagcloud
     # - links
-    
-# Excerpt 
+
+# Excerpt
 ## Auto creat excerpt with not <!--more-->
 ## Enable will truncate auto_excerpt.lines rows in post head to replace excerpt.
 auto_excerpt:
@@ -56,7 +56,7 @@ search:
     swiftype: # enter swiftype install key here
     baidu: false # you need to disable other search engines to use Baidu search, options: true, false
 
-# History version 
+# History version
 history_control: # 启用这一项使得 wiki 能有历史版本的功能（查看源码、在线编辑、对比历史变动）
     enable: true
     server_link: https://github.com # 版本控制服务器，推荐使用 GitHub https://github.com
