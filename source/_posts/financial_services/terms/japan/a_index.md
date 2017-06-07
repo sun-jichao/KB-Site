@@ -6,10 +6,9 @@ tags: [证券用语解说集, あ行]
 categories:
   - 证券用语解说集
   - 日本語
-  - あ行
 ---
 
 | &nbsp; | &nbsp; |
 | :----- | :----- |
-| [待添加](/证券用语解说集/日本語/あ行/#) | [待添加](/证券用语解说集/日本語/あ行/#) |
-| [待添加](/证券用语解说集/日本語/あ行/#) | [待添加](/证券用语解说集/日本語/あ行/#) |
+| [ISM製造業景況感指数](/financial_services/terms/japan/a/ism_seizou/) | [待添加](/financial_services/terms/japan/#) |
+| [待添加](/financial_services/terms/japan/#) | [待添加](/financial_services/terms/japan/#) |
