@@ -22,6 +22,7 @@ before_install:
   - git config --global user.email "${GIT_USER_EMAIL}"
 
 install: # 在安装项目环境阶段需要运行的命令，一条一行，类似的还有 before_install
+  - travis_wait 30 mvn install
   - source travis_env_init.sh # 指定 shell 脚本文件来做初始化
 
 script: # 在构建阶段需要运行的命令，一条一行，类似的还有 before_script、after_script
