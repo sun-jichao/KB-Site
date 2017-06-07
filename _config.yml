@@ -70,7 +70,7 @@ jsonContent:
     - 404.html
 
 auto_dir_categorize:
-  enable: true  # options:true, false; default is true
+  enable: false  # options:true, false; default is true
   force: false # options:true, false; default is false
 
 ### Creat sitemap
