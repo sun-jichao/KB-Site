@@ -1,0 +1,141 @@
+---
+title: 一覧表 - た行 -
+toc: false
+date: 2018-05-18 17:16:14
+tags: [证券用语解说集, た行]
+categories:
+  - 金融服务
+  - 证券用语解说集
+  - 日本語
+---
+
+| &nbsp; | &nbsp; | &nbsp; |
+| :----- | :----- | :----- |
+| [耐久財受注(../japan/ta/A02935.html/)] | [対顧客相場(../japan/ta/A02039.html/)] | [貸借対照表(../japan/ta/bs.html/)] |
+| [貸借取引(../japan/ta/taishaku_tori.html/)] | [貸借倍率(../japan/ta/taishaku_bai.html/)] | [貸借銘柄(../japan/ta/taishaku.html/)] |
+| [退職給付会計(../japan/ta/t_kaikei.html/)] | [退職給付債務(../japan/ta/t_saimu.html/)] | [退職給付信託(../japan/ta/A02628.html/)] |
+| [退職所得控除(../japan/ta/taishoku_kojo.html/)] | [対当売買(../japan/ta/A02684.html/)] | [タイムディケイ(../japan/ta/A02701.html/)] |
+| [大量保有報告書(../japan/ta/tairyohu.html/)] | [高値(../japan/ta/takane.html/)] | [高値覚え(../japan/ta/A01969.html/)] |
+| [高値づかみ(../japan/ta/takanedukami.html/)] | [高値引け(../japan/ta/takanebike.html/)] | [タカ派(../japan/ta/A03082.html/)] |
+| [多議決権種類株(../japan/ta/A02450.html/)] | [タクティカル・アセット・アロケーション(../japan/ta/A01996.html/)] | [他社株償還条項付債(../japan/ta/eb.html/)] |
+| [多重代表訴訟(../japan/ta/A02541.html/)] | [立会外取引(../japan/ta/tatiaigai_tori.html/)] | [立会外分売(../japan/ta/tatiai.html/)] |
+| [立会時間(../japan/ta/tachiaijikan.html/)] | [立会場(../japan/ta/tatiaijo.html/)] | [立会内取引(../japan/ta/tatiainai_tori.html/)] |
+| [タックス・ヘイブン(../japan/ta/a01861.html/)] | [建玉(../japan/ta/tategyok.html/)] | [棚卸資産(../japan/ta/tanaorosisisan.html/)] |
+| [棚卸資産回転率(../japan/ta/A02071.html/)] | [他人資本(../japan/ta/taninsihon.html/)] | [卵は一つのカゴに盛るな(../japan/ta/tamago.html/)] |
+| [単位型投資信託(../japan/ta/tani.html/)] | [単一市場(../japan/ta/A02964.html/)] | [単位労働コスト(../japan/ta/A02690.html/)] |
+| [短観加重平均D.I.(../japan/ta/A02787.html/)] | [短期金融資産(../japan/ta/tanki.html/)] | [短期金融市場(../japan/ta/t_kinyusijo.html/)] |
+| [短期金利(../japan/ta/tankikinri.html/)] | [短期継続融資(../japan/ta/A02950.html/)] | [短期公社債投資信託(../japan/ta/tankikosyasai.html/)] |
+| [短期債務格付け(../japan/ta/A03161.html/)] | [短期プライムレート(../japan/ta/t_primerate.html/)] | [単元株制度(../japan/ta/tangenkabu.html/)] |
+| [単元未満株(../japan/ta/tan_miman.html/)] | [単元未満株の取扱い(../japan/ta/tan_mi_tori.html/)] | [探鉱権益(../japan/ta/A02253.html/)] |
+| [短資会社(../japan/ta/tansigaisha.html/)] | [単純承認(../japan/ta/tanjun_shounin.html/)] | [単純平均株価(../japan/ta/tanjyun.html/)] |
+| [タンス株券(../japan/ta/tansu_kabu.html/)] | [単独株主権(../japan/ta/tan_kabu_ken.html/)] | [担保(../japan/ta/tanpo.html/)] |
+| [担保掛け目(../japan/ta/tanpokakeme.html/)] | [単利(../japan/ta/tanri.html/)] | [ターゲットイヤーファンド(../japan/ta/A02020.html/)] |
+| [ターゲット・デート・ファンド（TDF)(../japan/ta/A02662.html/)] | [タームプレミアム(../japan/ta/A03050.html/)] | [タームローン(../japan/ta/A02650.html/)] |
+| [第1号被保険者(../japan/ta/dai1.html/)] | [第2号被保険者(../japan/ta/dai2.html/)] | [第3号被保険者(../japan/ta/dai3.html/)] |
+| [第一部市場、第二部市場(../japan/ta/daiichi_s.html/)] | [大会社(../japan/ta/l_com.html/)] | [代行協会員(../japan/ta/a01853.html/)] |
+| [代行部分(../japan/ta/daikobubun.html/)] | [代行返上(../japan/ta/daikohenjo.html/)] | [大災害債券(../japan/ta/A02725.html/)] |
+| [第三者割当処分(../japan/ta/A02767.html/)] | [第三者割当増資(../japan/ta/daisann.html/)] | [代襲相続(../japan/ta/daisyu_souzoku.html/)] |
+| [代償分割(../japan/ta/A02501.html/)] | [大統領令(../japan/ta/A02999.html/)] | [ダイナミックヘッジ(../japan/ta/A02216.html/)] |
+| [ダイナミック・アセット・アロケーション(../japan/ta/A01997.html/)] | [大納会(../japan/ta/dainoukai.html/)] | [大発会(../japan/ta/daihakkai.html/)] |
+| [ダイバーシティ(../japan/ta/A03093.html/)] | [代表取締役(../japan/ta/r_director.html/)] | [大名債(../japan/ta/daimyosai.html/)] |
+| [代用有価証券(../japan/ta/daiyoshoken.html/)] | [第4次産業革命(../japan/ta/A03071.html/)] | [ダウ工業株30種平均(../japan/ta/nydow.html/)] |
+| [ダウンサイド確率(../japan/ta/a01852.html/)] | [打診売り(../japan/ta/A02925.html/)] | [打診買い(../japan/ta/a01844.html/)] |
+| [ダッシュ(../japan/ta/A03058.html/)] | [ダブルレバレッジ(../japan/ta/A01961.html/)] | [ダボス会議(../japan/ta/A02120.html/)] |
+| [だれる(../japan/ta/dareru.html/)] | [ダークプール(../japan/ta/A02128.html/)] | [地域経済報告（さくらレポート）(../japan/ti/A02343.html/)] |
+| [遅行指数(../japan/ti/A02673.html/)] | [地政学的リスク(../japan/ti/geopoliticalrisk.html/)] | [地方債(../japan/ti/tihosai.html/)] |
+| [地方税(../japan/ti/local_t.html/)] | [チャイナリスク(../japan/ti/A02012.html/)] | [チャイニーズウォール(../japan/ti/china.html/)] |
+| [着地取引(../japan/ti/chakuchitorihiki.html/)] | [ちゃぶつく(../japan/ti/A02452.html/)] | [チャート(../japan/ti/keisen.html/)] |
+| [チャートの見方(../japan/ti/cha_mikata.html/)] | [チャート分析(../japan/ti/tyatobun.html/)] | [注意銘柄(../japan/ti/chuimeigara.html/)] |
+| [中間配当(../japan/ti/chukan.html/)] | [中会社(../japan/ti/m_com.html/)] | [中堅証券(../japan/ti/A02408.html/)] |
+| [中古住宅販売件数(../japan/ti/A02948.html/)] | [中古住宅販売成約指数(../japan/ti/A02949.html/)] | [中国株式(../japan/ti/c_kabu.html/)] |
+| [中国総合消費トラッカー(../japan/ti/A02750.html/)] | [中国・四国インデックス(../japan/ti/chugoku_sikoku_idx.html/)] | [中進国(../japan/ti/A02188.html/)] |
+| [忠実義務(../japan/ti/chujitugimu.html/)] | [超過準備(../japan/ti/A02078.html/)] | [長期金融市場(../japan/ti/c_kinyusijo.html/)] |
+| [長期金利(../japan/ti/chokikinri.html/)] | [長期公社債投資信託(../japan/ti/chokikosyasai.html/)] | [長期債務格付け(../japan/ti/chokisaimukakuzuke.html/)] |
+| [長期プライムレート(../japan/ti/c_primerate.html/)] | [調整(../japan/ti/chousei.html/)] | [超長期国債先物取引(../japan/ti/A02610.html/)] |
+| [提灯をつける(../japan/ti/chochin.html/)] | [直接金融(../japan/ti/c_kinyu.html/)] | [直接利回り(../japan/ti/current_yield.html/)] |
+| [直系尊属(../japan/ti/chokkei_sonzoku.html/)] | [直系卑属(../japan/ti/chokkei_hizoku.html/)] | [チョッピー(../japan/ti/A02691.html/)] |
+| [賃上げ(../japan/ti/A02971.html/)] | [賃上げETF(../japan/ti/A02819.html/)] | [追加型投資信託(../japan/tu/open_tosin.html/)] |
+| [ツイスト・オペ(../japan/tu/a01871.html/)] | [通貨オプション(../japan/tu/A02029.html/)] | [通貨切下げ(../japan/tu/A02060.html/)] |
+| [通貨戦争(../japan/tu/A02152.html/)] | [通貨選択型投資信託(../japan/tu/a01860.html/)] | [通貨バスケット制(../japan/tu/A02488.html/)] |
+| [通貨マフィア(../japan/tu/A02151.html/)] | [月足(../japan/tu/tsukiashi.html/)] | [突込み売り(../japan/tu/tukkomiuri.html/)] |
+| [突っ込み買い(../japan/tu/A02980.html/)] | [突っ込む(../japan/tu/A02957.html/)] | [つなぎ売り(../japan/tu/tsunagiuri.html/)] |
+| [積立投資(../japan/tu/A03052.html/)] | [つみたてNISA(../japan/tu/A03098.html/)] | [積立方式(../japan/tu/tsumitate_sys.html/)] |
+| [強含み(../japan/tu/tuyofukumi.html/)] | [強含み横バイ(../japan/tu/tuyo_yokobai.html/)] | [連れ高(../japan/tu/A02958.html/)] |
+| [連れ安(../japan/tu/A02959.html/)] | [Tier1（基本的項目）(../japan/te/tier1.html/)] | [Tick(../japan/te/tick.html/)] |
+| [TIPs(../japan/te/tips.html/)] | [ティン・パラシュート(../japan/te/tin_parachute.html/)] | [TDnet(../japan/te/tdnet.html/)] |
+| [低位株(../japan/te/teiikabu.html/)] | [定款(../japan/te/article.html/)] | [定額年金保険(../japan/te/teigakunenkinh.html/)] |
+| [定期金に関する権利(../japan/te/A02803.html/)] | [定期昇給(../japan/te/A03005.html/)] | [抵抗線(../japan/te/teikosen.html/)] |
+| [定時償還（債券）(../japan/te/teijisyokan_s.html/)] | [定時償還（投資信託）(../japan/te/teijisyokan.html/)] | [定時定型投資信託(../japan/te/teijiteikei.html/)] |
+| [定性評価(../japan/te/teisei.html/)] | [抵当証券(../japan/te/teitou.html/)] | [低PER効果(../japan/te/A02485.html/)] |
+| [低ボラティリティ運用(../japan/te/A02398.html/)] | [テイラールール(../japan/te/A02198.html/)] | [定量評価(../japan/te/teiryo.html/)] |
+| [手掛かり難(../japan/te/a01845.html/)] | [手形売買市場(../japan/te/A02312.html/)] | [適温相場(../japan/te/A02427.html/)] |
+| [適格機関投資家(../japan/te/A02373.html/)] | [適格機関投資家等特例業務(../japan/te/A02335.html/)] | [適格退職年金(../japan/te/tekitainenkin.html/)] |
+| [適債基準(../japan/te/tekisai.html/)] | [適時開示(../japan/te/A02037.html/)] | [敵対的TOB(../japan/te/tob_h.html/)] |
+| [敵対的買収(../japan/te/hto.html/)] | [適用為替(../japan/te/tekiyougawase.html/)] | [テクニカル指標(../japan/te/tec_index.html/)] |
+| [テクニカル分析(../japan/te/tec_analysis.html/)] | [手口(../japan/te/teguti.html/)] | [手仕舞い(../japan/te/tejimai.html/)] |
+| [手じまい売り(../japan/te/A02389.html/)] | [テック・パルス指数(../japan/te/A02627.html/)] | [手詰まり(../japan/te/tedumari.html/)] |
+| [テナースワップ(../japan/te/A02064.html/)] | [手控え(../japan/te/tebikae.html/)] | [手元流動性(../japan/te/A01983.html/)] |
+| [テレマティクス保険(../japan/te/A02816.html/)] | [テレワーク(../japan/te/A02785.html/)] | [転換価格(../japan/te/t-kakaku.html/)] |
+| [転換権付配当優先株式(../japan/te/A02537.html/)] | [転換社債型新株予約権付社債(../japan/te/tenkan_sinkabuyoyakus.html/)] | [転換点(../japan/te/A02837.html/)] |
+| [天候デリバティブ(../japan/te/tenko_deri.html/)] | [点心債(../japan/te/tensinsai.html/)] | [天井(../japan/te/tenjo.html/)] |
+| [天井三日、底百日(../japan/te/tenjomikka.html/)] | [店頭FX(../japan/te/A02313.html/)] | [店頭オプション(../japan/te/A01947.html/)] |
+| [店頭市場(../japan/te/t-shijyou.html/)] | [店頭デリバティブ(../japan/te/A02182.html/)] | [店頭取引（債券市場）(../japan/te/ten_torihiki_b.html/)] |
+| [テンバガー(../japan/te/A02923.html/)] | [展望レポート(../japan/te/A02023.html/)] | [テーパリング(../japan/te/A02203.html/)] |
+| [テーマ型ファンド(../japan/te/A02051.html/)] | [テール(../japan/te/a01883.html/)] | [テールリスク(../japan/te/A01943.html/)] |
+| [出合い(../japan/te/deai.html/)] | [ディスインフレーション(../japan/te/disinflation.html/)] | [ディスカウントブローカー(../japan/te/discount.html/)] |
+| [ディスカウント・ファクター(../japan/te/A02143.html/)] | [ディスクロージャー(../japan/te/disclose.html/)] | [ディフェンシブストック(../japan/te/def_stock.html/)] |
+| [DCF法(../japan/te/A01979.html/)] | [ディーラー(../japan/te/dealer.html/)] | [ディーリング(../japan/te/dealing.html/)] |
+| [デイトレード(../japan/te/daytrade.html/)] | [デカップリング(../japan/te/A02220.html/)] | [出来高(../japan/te/dekidaka.html/)] |
+| [出来高10位占有率(../japan/te/dekidaka10.html/)] | [出口戦略(../japan/te/A02339.html/)] | [デジタル・クーポン債(../japan/te/A02190.html/)] |
+| [デットアサンプション(../japan/te/deptassumption.html/)] | [デットファイナンス(../japan/te/debt_finance.html/)] | [デット・エクイティ・スワップ(../japan/te/debt_equity_swap.html/)] |
+| [デット・デット・スワップ(../japan/te/A02736.html/)] | [デッドクロス(../japan/te/dead.html/)] | [デッドハンド型防衛策(../japan/te/deadhand.html/)] |
+| [デッド・キャット・バウンス(../japan/te/A01919.html/)] | [出直り(../japan/te/denaori.html/)] | [デフォルト(../japan/te/default.html/)] |
+| [デフレギャップ(../japan/te/A02440.html/)] | [デフレスパイラル(../japan/te/deflationary_spiral.html/)] | [デフレマインド(../japan/te/A02927.html/)] |
+| [デフレーション(../japan/te/deflation.html/)] | [デュアルカレンシー債(../japan/te/dual.html/)] | [デュレーション(../japan/te/dure.html/)] |
+| [デューデリジェンス(../japan/te/due_diligence.html/)] | [デリバティブ(../japan/te/deribati.html/)] | [デルタ(../japan/te/A02196.html/)] |
+| [デルタヘッジ(../japan/te/A02197.html/)] | [電子交付(../japan/te/densikofu.html/)] | [電子申告（e-Tax）(../japan/te/A03170.html/)] |
+| [電力債(../japan/de/A01946.html/)] | [データマイニング(../japan/te/A03133.html/)] | [東海三県インデックス(../japan/to/tokai3ken_idx.html/)] |
+| [投機(../japan/to/speculation.html/)] | [当期純利益(../japan/to/tokirieki.html/)] | [投機的格付け(../japan/to/a01881.html/)] |
+| [投機的水準(../japan/to/toukiteki.html/)] | [東京ゴールドスポット100（金限日取引）(../japan/to/A02566.html/)] | [東京レポ・レート(../japan/to/A02414.html/)] |
+| [等金額リバランス(../japan/to/toukingaku_rebalance.html/)] | [当限(../japan/to/tougiri.html/)] | [統合報告(../japan/to/A02189.html/)] |
+| [統合報告書(../japan/to/A02776.html/)] | [当座資産(../japan/to/tozasisan.html/)] | [当座比率(../japan/to/tozahiritu.html/)] |
+| [当座預金(../japan/to/A02264.html/)] | [投資(../japan/to/investment.html/)] | [投資一任契約(../japan/to/A01930.html/)] |
+| [投資型年金保険(../japan/to/hengaku_nenho.html/)] | [投資キャッシュフロー(../japan/to/A02255.html/)] | [投資銀行(../japan/ta/A01993.html/)] |
+| [投資顧問業(../japan/to/toushikom.html/)] | [投資財(../japan/to/i_goods.html/)] | [投資者保護基金(../japan/to/tosisha_hogo.html/)] |
+| [投資信託(../japan/to/fund.html/)] | [投資信託協会(../japan/to/A02844.html/)] | [投資信託説明書(../japan/to/A03100.html/)] |
+| [投資信託のコンセプト(../japan/to/fund_concept.html/)] | [投資信託法(../japan/to/toushi-shintakuhou.html/)] | [投資事業有限責任組合(../japan/to/A02551.html/)] |
+| [投資その他の資産(../japan/to/toushi_sonota.html/)] | [投資適格(../japan/to/toushitekikaku.html/)] | [投資適格債(../japan/to/t_tekikakusai.html/)] |
+| [投資の三原則(../japan/to/toushi3.html/)] | [投資ファンド(../japan/to/t_fund.html/)] | [投資部門別株式売買状況(../japan/to/A02529.html/)] |
+| [投資部門別取引状況(../japan/to/A02895.html/)] | [投資法人(../japan/to/A02849.html/)] | [投資法人債(../japan/to/A02850.html/)] |
+| [投資有価証券(../japan/to/toushi_yuka.html/)] | [東証アローヘッド(../japan/to/A02585.html/)] | [東証外国株(../japan/to/A02224.html/)] |
+| [東証銀行業株価指数先物取引(../japan/to/ts_kabusaki.html/)] | [東証配当フォーカス100指数(../japan/to/A02385.html/)] | [東証Mothers(../japan/to/mothers.html/)] |
+| [当日決済取引(../japan/to/A02265.html/)] | [掉尾の一振(../japan/to/A02492.html/)] | [東北インデックス(../japan/to/tohoku_idx.html/)] |
+| [騰落率(../japan/to/toraku.html/)] | [騰落レシオ(../japan/to/torakuratio.html/)] | [登録株(../japan/to/registered_share.html/)] |
+| [登録金融機関(../japan/to/to_kin_ki.html/)] | [登録債(../japan/to/torokusai.html/)] | [特殊法人(../japan/to/tokushuhojin.html/)] |
+| [特設注意市場銘柄(../japan/to/tokusetsu_chui.html/)] | [特定空家(../japan/to/A02791.html/)] | [特定遺贈(../japan/to/tokutei_izou.html/)] |
+| [特定金銭信託(../japan/to/tokkin.html/)] | [特定口座(../japan/to/tokuteikoza.html/)] | [特定受遺者(../japan/to/tokutei_jyuisha.html/)] |
+| [特別売り気配(../japan/to/tokuurikehai.html/)] | [特別縁故者(../japan/to/t_enkosha.html/)] | [特別会計(../japan/to/toku_kaikei.html/)] |
+| [特別買い気配(../japan/to/tokukaikehai.html/)] | [特別勘定(../japan/to/toku_kanjo.html/)] | [特別気配(../japan/to/tokukehai.html/)] |
+| [特別口座(../japan/to/tokubetsu_kouza.html/)] | [特別債(../japan/to/toku_sai.html/)] | [特別支配株主(../japan/to/A02526.html/)] |
+| [特別受益者(../japan/to/t_juekisha.html/)] | [特別清算指数（SQ）(../japan/to/A02896.html/)] | [特別損失(../japan/to/A02745.html/)] |
+| [特別代理人(../japan/to/A02719.html/)] | [特別配当(../japan/to/toku_haito.html/)] | [特別分配金(../japan/to/tokubun.html/)] |
+| [特別法(../japan/to/A03046.html/)] | [特別マル優(../japan/to/A01931.html/)] | [特別目的会社(../japan/to/spc.html/)] |
+| [特別利益(../japan/to/extraordinary_gain.html/)] | [特例国債(../japan/to/A02293.html/)] | [ToSTNeT市場(../japan/to/tostnet.html/)] |
+| [途中償還(../japan/to/tochu_s.html/)] | [突飛高(../japan/to/toppitaka.html/)] | [突飛安(../japan/to/toppiyasu.html/)] |
+| [トップダウンアプローチ(../japan/to/top_down.html/)] | [トップライン(../japan/to/A03119.html/)] | [TOPIX(../japan/to/topix.html/)] |
+| [TOPIXオプション取引(../japan/to/topix_op.html/)] | [TOPIX先物取引(../japan/to/topix_saki.html/)] | [TOPIX連動型ファンド(../japan/to/topix_ren.html/)] |
+| [トムネ(../japan/to/A02047.html/)] | [トラッキングエラー(../japan/to/tracking_err.html/)] | [トラッキングストック(../japan/to/tracking.html/)] |
+| [トランシェ(../japan/to/A02687.html/)] | [トランプノミクス(../japan/to/A02933.html/)] | [トランプ・ラリー(../japan/to/A03003.html/)] |
+| [トリガー価格(../japan/to/trigger.html/)] | [トリガー条項(../japan/to/A01962.html/)] | [取組み(../japan/to/torikumi.html/)] |
+| [取組高(../japan/to/torikumidaka.html/)] | [トリクルダウン理論(../japan/to/A02278.html/)] | [取締役(../japan/to/director.html/)] |
+| [取締役会(../japan/to/A02771.html/)] | [取引残高報告書(../japan/to/zan_hokoku.html/)] | [取引所外取引(../japan/to/tori_gai.html/)] |
+| [取引報告書(../japan/to/tori_hokoku.html/)] | [トリプルウィッチング(../japan/to/triplewitching.html/)] | [トリプル安(../japan/to/A01913.html/)] |
+| [Treasury notes(../japan/to/t-notes.html/)] | [Treasury bonds(../japan/to/t-bonds.html/)] | [トレンド(../japan/to/trend.html/)] |
+| [トレンドフォロー(../japan/ta/A02002.html/)] | [トレーサビリティ(../japan/to/A03115.html/)] | [トレーダー(../japan/to/trader.html/)] |
+| [トレーディング(../japan/to/A02821.html/)] | [トンチン保険(../japan/to/A02066.html/)] | [トークン(../japan/to/A03150.html/)] |
+| [トータルリターン(../japan/to/A02111.html/)] | [トービン税(../japan/to/A02178.html/)] | [動意(../japan/to/doi.html/)] |
+| [独立委員会(../japan/to/dokuritsu_iinkai.html/)] | [独立企業間価格(../japan/to/A02784.html/)] | [独立系アドバイザー（IFA）(../japan/to/A03027.html/)] |
+| [ドットチャート(../japan/to/A02885.html/)] | [ドッド・フランク法(../japan/to/A02914.html/)] | [独歩高(../japan/to/doppodaka.html/)] |
+| [独歩安(../japan/to/doppoyasu.html/)] | [ドテン(../japan/to/doten.html/)] | [ドバイ原油(../japan/to/dubai-genyu.html/)] |
+| [ドミニオン・ボンド・レーティング・サービシズ(../japan/to/a01877.html/)] | [ドラゴン債(../japan/to/doragon.html/)] | [ドルコスト平均法(../japan/to/dorukosu.html/)] |
+
