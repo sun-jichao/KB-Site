@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Knowledge Base</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://kb.sunjichao.com/"/>
+  <updated>2018-05-18T08:52:26.919Z</updated>
+  <id>https://kb.sunjichao.com/</id>
+  
+  <author>
+    <name>Sun JiChao</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Welcome Knowledge Base Site</title>
+    <link href="https://kb.sunjichao.com/index/"/>
+    <id>https://kb.sunjichao.com/index/</id>
+    <published>2017-05-21T12:55:57.000Z</published>
+    <updated>2018-05-18T08:52:26.919Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是 Sun JiChao 的个人 知识库 站点，主要记录一些自己总结的只言片语的零散知识点。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这是 Sun JiChao 的个人 知识库 站点，主要记录一些自己总结的只言片语的零散知识点。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
