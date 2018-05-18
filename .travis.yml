@@ -8,11 +8,12 @@ branches: # 指定要构建的分支
   only: # only 表示只构建以下分支
   - writing
 
-cache:
-  directories:
+# cache:
+#   directories:
 #    - node_modules
 
 before_install:
+  - export TZ='Asia/Shanghai' # 更改时区
   - openssl aes-256-cbc -K $encrypted_26b4962af0e7_key -iv $encrypted_26b4962af0e7_iv -in travis.enc -out ~/.ssh/id_rsa -d
   - chmod 600 ~/.ssh/id_rsa
   - eval $(ssh-agent)
@@ -25,8 +26,9 @@ install: # 在安装项目环境阶段需要运行的命令，一条一行，类
   - source travis_env_init.sh # 指定 shell 脚本文件来做初始化
 
 script: # 在构建阶段需要运行的命令，一条一行，类似的还有 before_script、after_script
-  - hexo clean
-  - hexo generate # Hexo 常规命令，执行清理和生成
+  - hexo clean # Hexo 常规命令，执行清理
+  - travis_wait 30 hexo generate # Hexo 常规命令，执行生成
+  - gulp
 
 after_success: # 在构建成功后要运行的命令，构建失败不会执行，其他同上
   - hexo deploy # > /dev/null # 通过 hexo 的 deploy 命令部署博客

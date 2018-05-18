@@ -2,8 +2,8 @@
 
 __COMMENTS__='
 # OS: ubuntu 14.04 trusty
-# nodejs: 6.9.1
-# npm: 3.10.8
+# nodejs: 8.11.2
+# npm: 5.6.0
 # sudo: required
 # need "GIT_USER_NAME" "GIT_USER_EMAIL" "GIT_REPO_TOKEN" variable in env.
 # how to use: in travis, use the script to run, eg:
@@ -12,20 +12,20 @@ __COMMENTS__='
 #    ./travis_env_init.sh
 '
 
-
 node --version
 npm --version
 
 echo "Hexo environment pre install start."
 echo "${__COMMENTS__}"
 
-npm install -g gulp > /dev/null
-npm install -g hexo-cli > /dev/null
+npm install -g gulp # > /dev/null
+npm install -g hexo-cli # > /dev/null
+npm install hexo-deployer-git --save
 npm install
 
 echo "hexo and packages install complete."
 
-# Set git config 
+# Set git config
 # git config --global user.name "${GIT_USER_NAME}"
 # git config --global user.email "${GIT_USER_EMAIL}"
 # sed -i'' "s~git@github.com:~https://${GIT_REPO_TOKEN}@github.com/~" _config.yml
